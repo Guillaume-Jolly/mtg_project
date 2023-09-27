@@ -1,0 +1,5 @@
+python -m venv projet_mtg
+
+projet_mtg\Scripts\activate
+
+pip install requests psycopg2
