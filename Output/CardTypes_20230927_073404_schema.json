@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "meta.date": "str",
+        "meta.version": "str"
+    },
+    "data": {
+        "data.artifact": {
+            "data.artifact.subTypes": "List of str",
+            "data.artifact.superTypes": "List of str"
+        },
+        "data.conspiracy": {
+            "data.conspiracy.subTypes": "Empty List",
+            "data.conspiracy.superTypes": "List of str"
+        },
+        "data.creature": {
+            "data.creature.subTypes": "List of str",
+            "data.creature.superTypes": "List of str"
+        },
+        "data.enchantment": {
+            "data.enchantment.subTypes": "List of str",
+            "data.enchantment.superTypes": "List of str"
+        },
+        "data.instant": {
+            "data.instant.subTypes": "List of str",
+            "data.instant.superTypes": "List of str"
+        },
+        "data.land": {
+            "data.land.subTypes": "List of str",
+            "data.land.superTypes": "List of str"
+        },
+        "data.phenomenon": {
+            "data.phenomenon.subTypes": "Empty List",
+            "data.phenomenon.superTypes": "List of str"
+        },
+        "data.plane": {
+            "data.plane.subTypes": "List of str",
+            "data.plane.superTypes": "List of str"
+        },
+        "data.planeswalker": {
+            "data.planeswalker.subTypes": "List of str",
+            "data.planeswalker.superTypes": "List of str"
+        },
+        "data.scheme": {
+            "data.scheme.subTypes": "Empty List",
+            "data.scheme.superTypes": "List of str"
+        },
+        "data.sorcery": {
+            "data.sorcery.subTypes": "List of str",
+            "data.sorcery.superTypes": "List of str"
+        },
+        "data.tribal": {
+            "data.tribal.subTypes": "Empty List",
+            "data.tribal.superTypes": "List of str"
+        },
+        "data.vanguard": {
+            "data.vanguard.subTypes": "Empty List",
+            "data.vanguard.superTypes": "List of str"
+        }
+    }
+}
